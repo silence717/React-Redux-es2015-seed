@@ -1,6 +1,6 @@
 /**
  * @author  https://github.com/silence717
- * @desc []
+ * @desc [Home Component]
  * @date 2017-03-22
  */
 import React from 'react';

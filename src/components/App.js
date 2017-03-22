@@ -1,6 +1,6 @@
 /**
  * @author  https://github.com/silence717
- * @desc []
+ * @desc [主入口]
  * @date 2017-03-22
  */
 import React, {PropTypes} from 'react';
