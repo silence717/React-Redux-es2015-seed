@@ -1,6 +1,6 @@
 /**
  * @author  https://github.com/silence717
- * @desc []
+ * @desc [定义类型]
  * @date 2017-03-25
  */
-export const CREATE_COURSE = 'CREATE_COURSE';
+export const LOAD_COURSES_SUCCESS = 'LOAD_COURSES_SUCCESS';
