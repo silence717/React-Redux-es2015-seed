@@ -5,5 +5,6 @@
  */
 export default {
   authors: [],
-  courses: []
-}
+  courses: [],
+  ajaxCallInProgress: 0
+};
