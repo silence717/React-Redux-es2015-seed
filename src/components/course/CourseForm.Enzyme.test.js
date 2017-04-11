@@ -32,7 +32,7 @@ describe('CourseForm via Enzyme', () => {
   });
 
   it('save button is labeled "Saving..." when saving', () => {
-    const wrapper = setup(false);
+    const wrapper = setup(true);
     expect(wrapper.find('input').props().value).toBe('Saving...');
   });
 });

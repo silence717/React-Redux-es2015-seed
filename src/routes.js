@@ -9,7 +9,7 @@ import App from './components/App';
 import HomePage from './components/home/HomePage';
 import AboutPage from './components/about/AbputPage';
 import CoursesPage from './components/course/CoursesPage';
-import ManageCoursePage from './components/course/ManageCoursePage';
+import ManageCoursePage from './components/course/ManageCoursePage'; //eslint-disable-lint
 
 export default (
   <Route path="/" component={App}>
